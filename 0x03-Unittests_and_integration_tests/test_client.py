@@ -106,3 +106,4 @@ class TestIntegrationGithubOrgClient(unittest.TestCase):
         cleaning up
         """
         cls.get_patcher.stop()
+# def test_public_repos_with_license(self):
