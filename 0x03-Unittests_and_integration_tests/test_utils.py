@@ -94,3 +94,4 @@ class TestMemoize(unittest.TestCase):
             test_instance.a_property()
             test_instance.a_property()
             test_instance.a_method.assert_called_once()
+            
